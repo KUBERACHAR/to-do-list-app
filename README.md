@@ -19,21 +19,21 @@ A simple To-Do List application built with vanilla JavaScript, HTML, and CSS. De
 
 | Frontend   | Backend | Storage      |
 |------------|---------|--------------|
-| HTML       | N/A     | localStorage |
+| HTML       |   N/A   |              |
 | CSS        |         |              |
-| JavaScript |         |              |
+| JavaScript |         | localStorage |
 
 ## 📂 Project Structure
 
 📁 to-do-list-app
-    ├──src
-    |  ├── index.html 
-    |  ├── style.css 
-    |  ├── script.js 
-    |
-    ├── Demo_image.png
-    |
-    └── README.md
+    ├── src
+    │   ├── index.html      # HTML structure for the calculator interface
+    │   ├── styles.css      # CSS styles for the calculator
+    │   ├── script.js       # Main JavaScript file for functionality 
+    │
+    ├── Demo_image.png  
+    │
+    └── README.md           # Project documentation
 
 ## 🧠 How It Works
 
@@ -53,13 +53,17 @@ A simple To-Do List application built with vanilla JavaScript, HTML, and CSS. De
    ```
    cd to-do-list-app
    ```
+   
+3. Navigate to the code src:
+   ```
    cd src
    ```
-
-3. Open index.html in your browser.
+   
+4. Open index.html in your browser.
 - Start adding tasks!
 
 ## 📜 License
 
 This project is licensed under the MIT License.🙌 Contributing Contributions are welcome! Feel free to fork the repo, submit issues, or open pull requests.
+
 ---
